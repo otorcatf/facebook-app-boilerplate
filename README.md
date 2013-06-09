@@ -1,17 +1,21 @@
-HTML Facebook App Boilerplate
+Facebook App Boilerplate
 =============================
 
-HTML Facebook App template based on [HTML5 boilerplate] to start build your Facebook apps faster.
+HTML and PHP Facebook App template based on [HTML5 boilerplate] to start build your Facebook apps faster.
 
 ## Features:
 
+  - Templates for develop with the [Facebook JavaScript SDK] and [Facebook PHP SDK]
   - [Facebook Javascript SDK] async load
-  - Icons folder with the basic icons you need to load on you Facebook app config  
+  - Channel files in HTML and PHP versions  
+  - Icons folder with the basic icons you need to load on you Facebook app config
 
 ## Included in this boilerplate:
 
   - [HTML5 Boilerplate]
-  - [Facebook Javascript SDK]
+  - [Facebook JavaScript SDK]
+  - [Facebook PHP SDK]
 
 [HTML5 Boilerplate]: http://html5boilerplate.com/
-[Facebook Javascript SDK]: https://developers.facebook.com/docs/reference/javascript/
+[Facebook JavaScript SDK]: https://developers.facebook.com/docs/reference/javascript/
+[Facebook PHP SDK]: https://developers.facebook.com/docs/reference/php/
